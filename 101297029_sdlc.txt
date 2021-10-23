@@ -32,3 +32,12 @@ Benefits of implementing DevOps with software development process (“Role of De
 5.	Increased Collaboration:
     DevOps raises collaboration between team members and encourage them to stay connected and work together. This helps
     to achieve the development goal fast.
+
+
+References:
+
+Role of DevOps in Software Development Process. (2020). Successive Technologies.
+Retrieved from: https://dev.to/successivetechblogs/role-of-devops-in-software-development-process-l33
+
+Taylor, D. (2021). DevOps Tutorial for Beginners: Learn Now (Training Course) Guru99.
+Retrieved from: https://www.guru99.com/devops-tutorial.html#1
