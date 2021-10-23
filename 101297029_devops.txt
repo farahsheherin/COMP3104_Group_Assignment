@@ -1,3 +1,7 @@
 The COMP 3104 DevOps course helps students to learn about DevOps which is a collaboration between Development and
 IT Operations for software development and deployment. Students learn various procedures and best practices from DevOps
 course and able to increase productivity of a workplace by applying these procedures.
+
+Teacher’s Name: Pritesh Patel
+
+Course Duration: 15 weeks
