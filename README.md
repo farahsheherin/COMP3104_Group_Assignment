@@ -1,8 +1,8 @@
-### COMP3104 - Group Assignment
+# COMP3104 - Group Assignment
 
-#### Group:
+## Group: 25
 
-##### Our group number is 25 and we have 4 members in our group:
+We have 4 members in our group:
 
 * Allan John Valiente – 101285226
 * Farah Sheherin – 101297029
