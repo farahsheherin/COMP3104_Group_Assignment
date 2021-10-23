@@ -10,3 +10,25 @@ Importance of learning DevOps in software development cycle (“Role of DevOps i
 -	It secures quick and automatic deployment with fast release cycles.
 -	DevOps permits to have microservices architecture and leverage containers.
 -	DevOps makes things less complicated and limits dependencies.
+
+Benefits of implementing DevOps with software development process (“Role of DevOps in Software Development Process,” 2020):
+
+1.	Easy to Identify and Modify of Software Defects:
+    With the better collaboration between development and IT operations, now it has become much easier to identify and
+    modify the software defects early.
+
+2.	Less Human Errors:
+    With the help of DevOps, it is possible to control the amount of application failure by deploying frequent releases
+    within a specific timeline.
+
+3.	Significant Reliability:
+    DevOps secures reliability along with smooth operation. Businesses who are using DevOps get faster deployment
+    compared to those businesses who do not use DevOps.
+
+4.	Greater Resource Management:
+    There are some situations where developers and testers wait for a long time to get the resources which cause delay
+    of the delivery.
+
+5.	Increased Collaboration:
+    DevOps raises collaboration between team members and encourage them to stay connected and work together. This helps
+    to achieve the development goal fast.
