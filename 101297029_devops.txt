@@ -20,3 +20,12 @@ Topics of the course:
 10.	DevOps Assembly Lines
 11.	Commonly Used DevOps Tech Exposed
 12.	Transitioning into the role of DevOps
+
+Detailed Evaluation System:
+
+-	Mid-term Exam: 20%
+-	Final Exam: 30%
+-	Individual Assignment: 10%
+-	Group Assignment: 16%
+-	Lab Exercises: 16%
+-	Lecture Quizzes: 8%
