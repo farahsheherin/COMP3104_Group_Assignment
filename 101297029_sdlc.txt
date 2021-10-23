@@ -1,0 +1,12 @@
+DevOps is a collaboration between software development and IT operations which empowers businesses to deliver software
+applications and services at a faster speed. It permits businesses to serve their clients better and participate more
+strongly in the market (Taylor, 2021).
+
+Importance of learning DevOps in software development cycle (“Role of DevOps in Software Development Process,” 2020):
+-	DevOps helps to reduce the maximum tasks which developers do continuously and manually. It provides a boost to the
+    development team.
+-	It makes a good balance between the teams in the company and minimize the blame game.
+-	DevOps helps the team to learn and evolve together.
+-	It secures quick and automatic deployment with fast release cycles.
+-	DevOps permits to have microservices architecture and leverage containers.
+-	DevOps makes things less complicated and limits dependencies.
