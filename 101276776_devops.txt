@@ -1,3 +1,9 @@
 This course is designed to better prepare professionals entering the IT field.
 Specifically, a field where servers, web apps and infrastructure will be core to business needs.
 COMP 3104 provides a hands-on experience through the implementation of tried, tested and true DevOps technologies.
+
+How to Succeed
+This course relies on three things:
+1. Lab and lecture attendance
+2. Completion of lecture quizzes
+3. Following weekly lab exercises
