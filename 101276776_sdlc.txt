@@ -9,3 +9,5 @@ The linearity of the waterfall model and the cross-functionality of AGILE softwa
 DevOps Services came into play by effectively serving the purpose of reducing the time involved in SDLC for prompt deliveries and securing the continuous production of high-quality, foolproof software applications.
 
 A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates.
+
+Retrieved from: https://www.cuelogic.com/blog/devops-lifecycle
