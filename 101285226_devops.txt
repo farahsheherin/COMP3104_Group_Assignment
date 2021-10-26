@@ -1,0 +1,13 @@
+COMP 3104 DevOps is one of the important courses in the IT field, which required the student to learn how to emerge with the project into agile approaches. 
+Basically, It involves the process of development and operation. 
+
+Students are also required to use certain tools included Travis CI, Jenkins and others, 
+which enables the students to come up with a project plan, coding integration, debug and test, deployment of the application.
+
+Topics cover to this course are follows:
+- GIT Commands.
+- Version Control 
+- Single Page Applications
+- CI/CD
+- DevOps Automation
+- DevOps Transition
