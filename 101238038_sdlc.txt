@@ -1,0 +1,6 @@
+DevOps is important because it's a software development and 
+operations approach that enables faster development of new products and easier maintenance of existing deployments.
+DevOps is no more than a set of processes that coordinate to unify development teams and processes to complement software development. The main reason behind DevOps' popularity is that it allows enterprises to create and
+improve products at a faster pace than traditional software development methods.
+
+The DevOps solution involves automating IT governance and is even more effective with the application of agile development. 
