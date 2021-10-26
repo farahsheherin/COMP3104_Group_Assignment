@@ -10,8 +10,8 @@ We have 4 members in our group:
 * Yoonho Hwang – 101238038
 
 
-## [Farah Sheherin - 101297029](https://github.com/farahsheherin)
+## [Yoonho Hwang - 101238038](https://github.com/yhhwang20/)
 
-- [George Brown College](101297029_gb.txt)
-- [COMP3104 DevOps](101297029_devops.txt)
-- [DevOps Importance](101297029_sdlc.txt)
+- [George Brown College](101238038_gb.txt)
+- [COMP3104 DevOps](101238038_devops.txt)
+- [DevOps Importance](101238038_sdlc.txt)
