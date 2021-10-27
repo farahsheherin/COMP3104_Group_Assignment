@@ -16,8 +16,16 @@ We have 4 members in our group:
 - [COMP3104 DevOps](101297029_devops.txt)
 - [DevOps Importance](101297029_sdlc.txt)
 
+
 ## [Allan John Valiente - 101285226](https://github.com/vaj90)
 
 - [George Brown College](101285226_gb.txt)
 - [COMP3104 DevOps](101285226_devops.txt)
 - [DevOps Importance](101285226_sdlc.txt)
+
+
+## [Yoonho Hwang - 101238038](https://github.com/yhhwang20)
+
+- [George Brown College](101238038_gb.txt)
+- [COMP3104 DevOps](101238038_devops.txt)
+- [DevOps Importance](101238038_sdlc.txt)
