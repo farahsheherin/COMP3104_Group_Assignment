@@ -1,0 +1,32 @@
+COMP 3104 DevOps is one of the important courses in the IT field, which required the student to learn how to emerge with the project into agile approaches. 
+Basically, It involves the process of development and operation. 
+
+Students are also required to use certain tools included Travis CI, Jenkins and others, 
+which enables the students to come up with a project plan, coding integration, debug and test, deployment of the application.
+
+Topics cover to this course are follows:
+- GIT Commands.
+- Version Control 
+- Single Page Applications
+- CI/CD
+- DevOps Automation
+- DevOps Transition
+
+References:
+Git cheat sheets. GitHub Cheatsheets. (n.d.). 
+Retrieved October 26, 2021, from https://training.github.com/. 
+
+Atlassian. (n.d.). What is version control: Atlassian Git Tutorial. Atlassian. 
+Retrieved October 26, 2021, from https://www.atlassian.com/git/tutorials/what-is-version-control. 
+
+Create a new react app. React. (n.d.). 
+Retrieved October 26, 2021, from https://reactjs.org/docs/create-a-new-react-app.html. 
+
+Sacolick, I. (2020, January 17). What is Ci/CD? continuous integration and continuous delivery explained. InfoWorld. 
+Retrieved October 26, 2021, from https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html. 
+
+Atlassian. (n.d.). DevOps tools for each phase of the DevOps lifecycle. Atlassian. 
+Retrieved October 26, 2021, from https://www.atlassian.com/devops/devops-tools. 
+
+Empowering app development for developers. Docker. (n.d.). 
+Retrieved October 26, 2021, from https://www.docker.com/. 

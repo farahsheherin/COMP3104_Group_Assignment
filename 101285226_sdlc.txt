@@ -1,0 +1,16 @@
+DevOps is everything a lot in development and operations, and it is more like in the process of continuity, 
+from single into multiple sets of the undertaking. 
+
+According to the Eureka website(2020), "The aim of DevOps is to shorten the system’s development life cycle while delivering features, 
+fixes, and updates frequently in close alignment with business objectives", and DevOps is indeed capable to put the process into a fast phase.
+
+References:
+
+Devops Lifecycle: Everything about devops lifecycle phases. Edureka. (2020, November 25). 
+Retrieved October 26, 2021, from https://www.edureka.co/blog/devops-lifecycle/. 
+
+Muratkar, A. (2021, July 2). What is devops lifecycle?: How to manage yours. Cuelogic Technologies Pvt. Ltd. 
+Retrieved October 26, 2021, from https://www.cuelogic.com/blog/devops-lifecycle. 
+
+What Is DevOps Lifecycle? Definition, Key Components, and Management Best Practices. Toolbox.com. (n.d.). 
+Retrieved October 26, 2021, from https://www.toolbox.com/tech/devops/articles/what-is-devops-lifecycle/. 
