@@ -29,3 +29,10 @@ We have 4 members in our group:
 - [George Brown College](101238038_gb.txt)
 - [COMP3104 DevOps](101238038_devops.txt)
 - [DevOps Importance](101238038_sdlc.txt)
+
+
+## [Hyunsoo Cho - 101276776](https://github.com/ChloeC21)
+
+- [George Brown College](101276776_gb.txt)
+- [COMP3104 DevOps](101276776_devops.txt)
+- [DevOps Importance](101276776_sdlc.txt)
